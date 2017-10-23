@@ -4194,8 +4194,6 @@
 					"-lc++",
 					"-stdlib=libc++",
 					"-ObjC",
-					"-lcrypto",
-					"-lssl",
 					"-lresolv",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -4234,8 +4232,6 @@
 					"-lc++",
 					"-stdlib=libc++",
 					"-ObjC",
-					"-lcrypto",
-					"-lssl",
 					"-lresolv",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
